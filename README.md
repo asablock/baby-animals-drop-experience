@@ -7,4 +7,6 @@
  关于模组的相关链接可以在这里找到：
 
  GitHub Pages(包括模组文件): [https://asablock.github.io/mods/baby-animals-drop-experience.html](https://asablock.github.io/mods/baby-animals-drop-experience.html)
+
+ GitHub: [https://github.com/asablock/baby-animals-drop-experience](https://github.com/asablock/baby-animals-drop-experience)
  
