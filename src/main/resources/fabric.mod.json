@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "babyanimalsdropexperience",
+  "version": "${version}",
+
+  "name": "幼年生物掉落经验",
+  "description": "幼年生物掉落经验。仅此而已。",
+  "authors": [
+    "asablock"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC BY-NC-SA 4.0",
+  "icon": "assets/babyanimalsdropexperience/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "asablock.baby.animals.drop.experience.Main"
+    ]
+  },
+  "mixins": [
+    "babyanimalsdropexperience.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric-api": ">=0.67.0",
+    "minecraft": "1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

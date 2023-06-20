@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "asablock.baby.animals.drop.experience.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinAnimalEntity",
+    "MixinLivingEntity"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
