@@ -9,4 +9,5 @@
  GitHub Pages(包括模组文件): [https://asablock.github.io/mods/baby-animals-drop-experience.html](https://asablock.github.io/mods/baby-animals-drop-experience.html)
 
  GitHub: [https://github.com/asablock/baby-animals-drop-experience](https://github.com/asablock/baby-animals-drop-experience)
- 
+
+ MC百科: [https://www.mcmod.cn/class/10781.html](https://www.mcmod.cn/class/10781.html) 
